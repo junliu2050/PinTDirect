@@ -1,6 +1,7 @@
 In the spirit of reproducible research, we provide here the MATLAB codes for replicate the results in our published article: 
-**"A well-conditioned direct PinT algorithm for first- and second-order evolutionary equations"** by Jun Liu, Xiang-Sheng Wang, Shu-Lin Wu & Tao Zhou.
-We point out the parallel results in the paper are obtained from C/MPI/Petsc implementation of the following MATLAB version algorithm.
+**"A well-conditioned direct PinT algorithm for first- and second-order evolutionary equations"** by Jun Liu, Xiang-Sheng Wang, Shu-Lin Wu & Tao Zhou.  
+
+*We point out the parallel results in the paper are obtained from C/MPI/Petsc implementation of the following MATLAB version algorithm.*
 
 # Below is the short description of each code:  
   -**Compare_eigB_VDV_Table1.m**, reproduce results in Table 1  
