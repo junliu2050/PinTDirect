@@ -2,14 +2,14 @@ In the spirit of reproducible research, we provide here the MATLAB codes for rep
 **"A well-conditioned direct PinT algorithm for first- and second-order evolutionary equations"** by Jun Liu, Xiang-Sheng Wang, Shu-Lin Wu & Tao Zhou.
 We point out the parallel results in the paper are obtained from C/MPI/Petsc implementation of the following MATLAB version algorithm.
 
-# Below is the short description of each code:
-  -**Compare_eigB_VDV_Table1.m**, reproduce results in Table 1
-  -**Wave1D_pint_direct_fast.m**, 1D wave equation (linear)
-  -**Heat1D_pint_direct_fast.m**, 1D heat equation (linear)
-  -**Heat1D_pint_direct_nonlinear.m**, 1D heat equation (nonlinear)
-  -**Heat2D_pint_direct_fast.m**,  2D heat equation (linear)
-  -**Heat2D_pint_direct_nonlinear.m**, 2D heat equation (nonlinear)
-  -**fasteigB.m**, the core fast diagonalization algorithm
+# Below is the short description of each code:  
+  -**Compare_eigB_VDV_Table1.m**, reproduce results in Table 1  
+  -**Wave1D_pint_direct_fast.m**, 1D wave equation (linear)  
+  -**Heat1D_pint_direct_fast.m**, 1D heat equation (linear)  
+  -**Heat1D_pint_direct_nonlinear.m**, 1D heat equation (nonlinear)  
+  -**Heat2D_pint_direct_fast.m**,  2D heat equation (linear)  
+  -**Heat2D_pint_direct_nonlinear.m**, 2D heat equation (nonlinear)  
+  -**fasteigB.m**, the core fast diagonalization algorithm  
 
 
   Licence Information:
